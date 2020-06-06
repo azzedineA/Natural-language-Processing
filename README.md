@@ -1,2 +1,2 @@
 # Natural-language-Processing
-this repository contains the implementation of algorithms in NLP
+This repository contains examples and best practices for building NLP systems
